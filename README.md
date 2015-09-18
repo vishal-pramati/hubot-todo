@@ -1,4 +1,4 @@
-# Hubot Todo
+## Hubot Todo
 
 A Hubot script that manages TODOs.
 
