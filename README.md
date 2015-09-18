@@ -1,6 +1,6 @@
 ## Hubot Todo
 
-A Hubot script that manages TODOs.
+A Hubot script that manages TODOs. Testing
 
 ## How to install
 
